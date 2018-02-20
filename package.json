@@ -1,0 +1,23 @@
+{
+  "name": "package excersice",
+  "version": "1.0.0",
+  "description": "Turn text into grawlix",
+  "main": "index.js",
+  "keywords": [
+    "grawlix",
+    "censor",
+    "words",
+    "convert"
+  ],
+  "author": "Joost Flick",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joostflick/package.git"
+  },
+  "homepage": "https://github.com/joostflick/package/blob/master/README.md",
+  "files": [
+    "index.js",
+    "README.md",
+  ]
+}
